@@ -1,0 +1,22 @@
+[
+    {
+        "Author": "talran",
+        "Name": "Macro Recursion",
+        "Punchline": "Run multiple macros one after the other.",
+        "Description": "Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro. Adding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02  Adding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11 Also allows executing any macro from chat using '/runmacro'.",
+        "InternalName": "MacroRecursion",
+        "AssemblyVersion": "2.1.2.0",
+        "RepoUrl": "https://github.com/talran/MacroRecursion",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/talran/MacroRecursion/master/res/icon.png",
+        "DownloadLinkInstall": "https://github.com/talran/MyDalamudPlugins/raw/master/plugins/MacroRecursion/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/talran/MyDalamudPlugins/raw/master/plugins/MacroRecursion/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/talran/MyDalamudPlugins/raw/master/plugins/MacroRecursion/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1151479845"
+    }
+]
