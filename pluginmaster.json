@@ -10,12 +10,12 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
         "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/tlaran/MyDalamudPlugins/raw/main/plugins/MacroRecursion/latest.zip",
+        "DownloadLinkInstall": "https://github.com/talran/MyDalamudPlugins/raw/main/plugins/MacroRecursion/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tlaran/MyDalamudPlugins/raw/main/plugins/MacroRecursion/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tlaran/MyDalamudPlugins/raw/main/plugins/MacroRecursion/latest.zip",
+        "DownloadLinkTesting": "https://github.com/talran/MyDalamudPlugins/raw/main/plugins/MacroRecursion/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/talran/MyDalamudPlugins/raw/main/plugins/MacroRecursion/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1668399846"
+        "LastUpdate": "1668399944"
     }
 ]
